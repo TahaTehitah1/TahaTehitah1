@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TahaTehitah1
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning development
